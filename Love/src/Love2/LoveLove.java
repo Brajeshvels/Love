@@ -6,7 +6,7 @@ public class LoveLove {
 		// TODO Auto-generated method stub
 
 		
-		System.out.println("kjkjkkjkkldkjjkjkjkjljlkjnmmlk");
+		System.out.println("kjkjkkjkkldkjjkkkjkjkjljlkjnmmlk");
 		
 	}
 	
